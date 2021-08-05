@@ -47,13 +47,9 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-- 🖥 &nbsp;
-  ![Premiere pro](https://img.shields.io/badge/-Premiere%20pror-333333?style=flat&logo=adobe-premiere%20pro)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![FL studio 20](https://img.shields.io/badge/-Fl%20studio%2020-333333?style=flat&logo=Fl%20studio%2020)
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=suraj18893&show_icons=true&locale=en&count_private=true&theme=dark" alt="suraj18893" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aditi4623&show_icons=true&locale=en&count_private=true&theme=dark" alt="aditi4623" /></p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj18893&theme=dark" alt="suraj18893" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi4623&theme=dark" alt="aditi4623" /> </p>
