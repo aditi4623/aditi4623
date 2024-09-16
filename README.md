@@ -10,13 +10,13 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing websites.
 
-- 🎓 &nbsp; Pursuing B.Tech from NATIONAL INSTITUTE OF TECHNOLOGY, JAMSHEDPUR.
+- 🎓 &nbsp; B.Tech from NATIONAL INSTITUTE OF TECHNOLOGY, JAMSHEDPUR.
 
 - 🌱 &nbsp; Learning more about React.js and React-Native, Node.js and Express.
 
 - 👨‍💻 All of my projects are available at [my repository](https://github.com/aditi4623?tab=repositories)
 
-- 💬 Ask me about anything related to JS, React, C++.(After googling it 😜😌)
+- 💬 Ask me about anything related to JS, React, C++.
 
 - 📫 How to reach me: **soniaditi4623@gmail.com**
 
